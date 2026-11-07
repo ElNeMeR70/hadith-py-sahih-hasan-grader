@@ -1,0 +1,7 @@
+[project]
+name = "hadith-py-sahih-hasan-grader"
+version = "1.0.0"
+description = "Multi-Criteria Hadith Grading Inference Engine (Sahih/Hasan/Da'if) (محرك الحكم الاستدلالي على الحديث بالصحة أو الحسن أو الضعف)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]

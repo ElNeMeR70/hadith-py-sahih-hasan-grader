@@ -1,0 +1,11 @@
+__pycache__/
+node_modules/
+target/
+bin/
+obj/
+build/
+.dart_tool/
+vendor/
+*.exe
+*.class
+*.o
